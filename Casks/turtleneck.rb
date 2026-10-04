@@ -1,6 +1,6 @@
 cask "turtleneck" do
-  version "1.1.0"
-  sha256 "02789a77f546a95947af03fca96ddba0bd0c2a047f855bc556afedd6a4096262"
+  version "1.1.1"
+  sha256 "fbe2c9dc357e29057a6d6badba830447f708d9ada4d8cb8773d7dbb7bec47288"
 
   url "https://github.com/kpryu6/turtleneck/releases/download/v#{version}/TurtleNeck-#{version}.dmg"
   name "TurtleNeck"
